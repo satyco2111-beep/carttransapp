@@ -2,7 +2,7 @@
 
 client_id = "1041dfc1d02a7379025b35b957c2cfdc"
 name = "carttrnsapp"
-application_url = "https://jewish-fires-protein-disabilities.trycloudflare.com"
+application_url = "https://bomb-railway-actions-sydney.trycloudflare.com"
 embedded = true
 handle = "carttrnsapp"
 
@@ -26,7 +26,7 @@ api_version = "2025-07"
 scopes = "write_cart_transforms,write_products"
 
 [auth]
-redirect_urls = ["https://jewish-fires-protein-disabilities.trycloudflare.com/auth/callback", "https://jewish-fires-protein-disabilities.trycloudflare.com/auth/shopify/callback", "https://jewish-fires-protein-disabilities.trycloudflare.com/api/auth/callback"]
+redirect_urls = ["https://bomb-railway-actions-sydney.trycloudflare.com/auth/callback", "https://bomb-railway-actions-sydney.trycloudflare.com/auth/shopify/callback", "https://bomb-railway-actions-sydney.trycloudflare.com/api/auth/callback"]
 
 [pos]
 embedded = false
