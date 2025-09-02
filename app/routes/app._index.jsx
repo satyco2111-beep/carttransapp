@@ -142,7 +142,7 @@ export default function Index() {
                       Admin GraphQL
                     </Link>{" "}
                     mutation demo, to provide a starting point for app
-                    development.
+                    development. satyam
                   </Text>
                 </BlockStack>
                 <BlockStack gap="200">
